@@ -2,6 +2,8 @@
 For the time being, this will track and list the reading I've done in the summer of 2015. I'd eventually like to expand it into a larger, broader reading tracking device for myself.
 
 ## June-August 2015
+* [ ] *Apprenticeship Patterns* - Dave Hoover
+* [ ] *Non-Violent Communication* - Marshall B. Rosenberg
 * [ ] *Javascript the Good Parts* - Doug Crockford [2nd read]
 * [ ] *Responsible Responsive Design* - Scott Jehl
 * [ ] *CSS Secrets* - Lea Verou
