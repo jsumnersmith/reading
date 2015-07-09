@@ -12,7 +12,7 @@ For the time being, this will track and list the reading I've done in the summer
 * [ ] ["Git from the Inside Out"](https://codewords.recurse.com/issues/two/git-from-the-inside-out) - Mary Rose Cook
 * [ ] ["Designing for Tinkerability"](http://web.media.mit.edu/~mres/papers/designing-for-tinkerability.pdf) - Mitchel Resnick and Eric Rosenbaum
 * [ ] [*Literary Studies in the Digital Age: An Evolving Anthology*](https://dlsanthology.commons.mla.org/)
-* [ ] [Exist Strategy](https://the-pastry-box-project.net/natasha-lampard/2015-march-27)
-* [ ] [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/)
-* [ ] [Putting thought into things](https://ia.net/know-how/putting-thought-into-things)
-* [ ] [The paradox of empathy](http://jenson.org/paradox/)
+* [ ] [Exist Strategy](https://the-pastry-box-project.net/natasha-lampard/2015-march-27) - Natasha Lampard
+* [ ] [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
+* [ ] [Putting thought into things](https://ia.net/know-how/putting-thought-into-things) - iA
+* [ ] [The paradox of empathy](http://jenson.org/paradox/) - Scott Jenson
