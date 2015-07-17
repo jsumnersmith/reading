@@ -27,3 +27,6 @@ p.71
 
 > Mastery isn't something that a person can claim for herself, as human vanity puts a limit on how accurate our self-assessment can be.
 p.116
+
+
+[Go Back to Reading Overview](https://github.com/jsumnersmith/reading)
