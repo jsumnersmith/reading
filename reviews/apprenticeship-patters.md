@@ -9,19 +9,15 @@ To be honest, the book isn't what I thought it was (did I not read any reviews o
 ### Formulas, Patterns, and Wisdom
 As a readers who trends towards ambiguity and mysteries as sources of meaning, I tend to think that overly formulaic books (especially ones that depend on patterns to deliver their message) are trite and usually contrived. However, I did find that the meat of what Dave and Ade wrote about to be really substantive and packed with wisdom (often times wisdom beyond the domain of software development). As such, the books evades the shallowness of typical forumla-oriented books, and here the pattern and formula offer easier access to the real substance of the book.
 ### Memorable Quotes
-```
-Apprenticeship is the beginning of your journey as a software craftsman. During this time you will be primarily focused inward, intent on growing your craftsmanship. While you will benefit from the attention of your peers and more experienced developers, you must learn to grow yourself, to learn how to learn. This focus on yourself and your need to grow it the essence of what it means to be an apprentice.
+
+> Apprenticeship is the beginning of your journey as a software craftsman. During this time you will be primarily focused inward, intent on growing your craftsmanship. While you will benefit from the attention of your peers and more experienced developers, you must learn to grow yourself, to learn how to learn. This focus on yourself and your need to grow it the essence of what it means to be an apprentice.
 p.6
-```
-```
-Despite the many benefits of a community of like-minded folk, you must also be aware of group-think. Force yourself to retain the capacity to ask questions that shock your community. Try to use that little bit of intellectual distance to generate the kind of respectful dissent that will keep your community healthy.
+
+> Despite the many benefits of a community of like-minded folk, you must also be aware of group-think. Force yourself to retain the capacity to ask questions that shock your community. Try to use that little bit of intellectual distance to generate the kind of respectful dissent that will keep your community healthy.
 p. 65
-```
-```
-Humility is one of the foundations of a successful apprenticeship. Combined with ambition, humility will help keep you focused and progressing in the right direction. Without it, you're susceptible to prematurely declaring your apprenticeship complete and missing out on some important lessons.
+
+> Humility is one of the foundations of a successful apprenticeship. Combined with ambition, humility will help keep you focused and progressing in the right direction. Without it, you're susceptible to prematurely declaring your apprenticeship complete and missing out on some important lessons.
 p.71
-```
-```
-Mastery isn't something that a person can claim for herself, as human vanity puts a limit on how accurate our self-assessment can be.
+
+> Mastery isn't something that a person can claim for herself, as human vanity puts a limit on how accurate our self-assessment can be.
 p.116
-```
