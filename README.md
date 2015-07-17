@@ -1,8 +1,8 @@
 # Reading
 For the time being, this will track and list the reading I've done in the summer of 2015. I'd eventually like to expand it into a larger, broader reading tracking device for myself.
 
-## June-August 2015
-* [ ] *Apprenticeship Patterns* - Dave Hoover
+## To Read:
+* [x] *Apprenticeship Patterns* - Dave Hoover & Adewale Oshineye
 * [ ] *Non-Violent Communication* - Marshall B. Rosenberg
 * [ ] *Javascript the Good Parts* - Doug Crockford [2nd read]
 * [ ] *Responsible Responsive Design* - Scott Jehl
@@ -16,3 +16,6 @@ For the time being, this will track and list the reading I've done in the summer
 * [ ] [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
 * [ ] [Putting thought into things](https://ia.net/know-how/putting-thought-into-things) - iA
 * [ ] [The paradox of empathy](http://jenson.org/paradox/) - Scott Jenson
+
+## Reviews
+* Apprenticeship Patterns
