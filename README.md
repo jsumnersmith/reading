@@ -18,4 +18,4 @@ For the time being, this will track and list the reading I've done in the summer
 * [ ] [The paradox of empathy](http://jenson.org/paradox/) - Scott Jenson
 
 ## Reviews
-* Apprenticeship Patterns
+* [Apprenticeship Patterns](reviews/apprenticeship-patters.md) - 7.17.15
